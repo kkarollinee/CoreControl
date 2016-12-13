@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Core Control</string>
+    <string name="CadBis">Cadastrar Item</string>
+    <string name="CadChar">Cadastrar Personagem</string>
+    <string name="Search">Pesquisar</string>
+    <string name="About">Sobre</string>
+
+    <string name="Character_name">Nome do Personagem: </string>
+    <string name="Class">Classe</string>
+    <string name="Spec">Especialização</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="CadChar2">Cadastrar</string>
+    <string name="Delete">Excluir</string>
+    <string name="Save">Salvar Alterações</string>
+
+    <string name="Item_name"> Nome do Item: </string>
+    <string name="SelectChar">Selecione o Personagem: </string>
+    <string name="SelectBoss">Selecione o Boss: </string>
+    <string name="SelectSlot">Selecione o Slot Equipado pelo Item</string>
+
+    <string name="item_name">Nome do Item</string>
+    <string name="boss_name">Nome do Chefe</string>
+    <string name="slot">Slot</string>
+    <string name="Character">Personagem:</string>
+    <string name="Item">Item:</string>
+    <string name="Boss">Chefe:</string>
+    <string name="Search_by_Boss">Filtrar por Chefe</string>
+    <string name="Search_by_Char">Filtrar por Char</string>
+
+
+
+
+    <string-array name="roleclass">
+        <item>Death knight</item>
+        <item>Demon Hunter</item>
+        <item>Druid</item>
+        <item>Hunter</item>
+        <item>Mage</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Priest</item>
+        <item>Rogue</item>
+        <item>Shamam</item>
+        <item>Warrior</item>
+        <item>Warlock</item>
+    </string-array>
+
+    <string-array name="role">
+        <item>Healer</item>
+        <item>Melle Dps</item>
+        <item>Ranged Dps</item>
+        <item>Tank</item>
+
+    </string-array>
+
+    <string-array name="boss">
+        <item>Nythendra</item>
+        <item>Elerethe</item>
+        <item>Ilgynoth</item>
+        <item>Dragons of Nigthmare</item>
+        <item>Ursoc</item>
+        <item>Cenarius</item>
+        <item>Xavius</item>
+    </string-array>
+
+    <string-array name="slot">
+        <item>Cabeça</item>
+        <item>Pescoço</item>
+        <item>Ombros</item>
+        <item>Torso</item>
+        <item>Pulso</item>
+        <item>Mãos</item>
+        <item>Cintura</item>
+        <item>Calças</item>
+        <item>Pés</item>
+        <item>Dedo</item>
+        <item>Berloque</item>
+        <item>Reliquia</item>
+    </string-array>
+</resources>

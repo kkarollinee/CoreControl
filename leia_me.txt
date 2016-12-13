@@ -1,0 +1,22 @@
+Trabalho apresentado a disciplina de Computação Móvel
+
+Curso: Engenharia de Computação 10º Período
+Professor: Jean Carlo Mendes
+Aluno: Ana Caroline Ferreira Silva
+Matrícula: 121-022248
+Conselheiro Lafaiete, 13 de Dezembro de 2016
+-------------------
+
+Sobre o App:
+Aplicativo desenvolvido para controle de itens Bis(Best in Slot) para o jogo MMO World of Warcraft.
+Este aplicativo tem o objetivo de auxiliar o líder de core a ter uma visão de quais itens são BiS para cada integrante de
+seu time, facilitanto assim a distribuição do saque do Boss.
+
+Como utilizar:
+1 - Cadastro de Personagem: Cadastre o personagem informando o nome, classe e role;
+2 - Cadastro de Item: Uma vez tendo cadastrado o personagem, cadastre o item para ele. Informe o nome do item, selecione o
+personagem, selecione o boss (chefe) onde o item dropa e o slot que o personagem equipa aquele item.
+3 - Pesquisar: Nesta parte o raide líder pode ter uma visão geral através de 2 searchs diferentes:
+a) Ele consegue selecionar um personagem e ver quais itens e em quais chefes aquele item dropa para o sujeito;
+b) Ele consegue selecionar um boss e ver quais personagens e quais itens cada um tem naquele boss (o mais usual, visto que
+quando um boss cai queremos saber do loot que veio se há algum BiS ali);
